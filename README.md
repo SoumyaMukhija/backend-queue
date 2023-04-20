@@ -1,8 +1,5 @@
 # Backend Queue Service
 
-## Made by: Soumya Mukhija
-## Email: soumya.mukhija@gmail.com
-
 ## Technology used: Flask (Python)
 
 
